@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Sinta
 
-I am a **Geodetic Engineering** student at UGM.\
+I am a **Geodetic Engineering** student at UGM.
 
 If you are interested in getting to know me, please follow my [LinkedIn](https://www.linkedin.com/in/sintaalfiroyanulm/) account.
 
