@@ -7,8 +7,8 @@ If you are interested in getting to know me, please follow my [LinkedIn](https:/
 ### Tech Stack
   <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://insidehpc.com/wp-content/uploads/2016/01/Python-logo-notext.svg_.png" /></a>
   <a href="#"><img align="left" alt="HTML" title="HTML" width="21px" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" /></a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="21px" /> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="21px"/> </a>
+  <a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="21px" /> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="21px"/> </a>
   <br>
   <br>
 
