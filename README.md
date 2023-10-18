@@ -9,6 +9,7 @@ If you are interested in getting to know me, please follow my [LinkedIn](https:/
   <a href="#"><img align="left" alt="HTML" title="HTML" width="21px" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" /></a>
   <a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="21px" /> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="21px"/> </a>
+  <a href="https://qgis.org/en/site/" target="_blank"> <img align="left" src="https://spatialthoughts.com/wp-content/uploads/2019/11/qgis-logo.png" alt="qgis" width="21px"/> </a>
   <br>
   <br>
 
