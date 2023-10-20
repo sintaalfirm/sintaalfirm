@@ -33,7 +33,7 @@ If you are interested in getting to know me, please follow my [LinkedIn](https:/
 - sinta.alfi2002@mail.ugm.ac.id
 - <a href="https://www.instagram.com/sintaalfir/">Instagram</a>
 
-[linkedin-shield]: https://img.shields.io/badge/-sintaalfirm-blue?style=flat-square&logo=Linkedin&logoColor=white
+[linkedin-shield]: https://img.shields.io/badge/-sintaalfiroyanulm-blue?style=flat-square&logo=Linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/sintaalfiroyanulm
 <!--
 **sintaalfirm/sintaalfirm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
