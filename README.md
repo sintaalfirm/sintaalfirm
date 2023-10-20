@@ -1,6 +1,12 @@
 ### Hi! 👋 I'm Sinta
+[![Linkedin Badge][linkedin-shield]][linkedin-url] 
+<img src="https://komarev.com/ghpvc/?username=sintaalfirm&label=Profile%20views&color=8042fc&style=plastic" alt="sintaalfirm" />
+[![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=%20&logo=Linkedin&style=plastic&logoColor=blue)](https://www.linkedin.com/in/sintaalfiroyanulm/)
+[![Email](https://img.shields.io/static/v1?label=Email&message=%20&logo=Gmail&style=plastic&logoColor=orange)](mailto:sintaroyyanul123@gmail.com)
 
-I am a **Geodetic Engineering** student at UGM.
+- 🎓 I am a **Geodetic Engineering** student at UGM.
+- 🌱 I’m currently learning [Python](https://www.dicoding.com/certificates/EYX420GN6ZDL),  [Javascript](https://www.dicoding.com/certificates/72ZD8RROVZYW), [Git](https://www.dicoding.com/certificates/QLZ9QLK72Z5D),  [Machine Learning](https://www.dicoding.com/certificates/QLZ9K5WN9Z5D), Linux, and [SQL](https://academy.dqlab.id/Certificate_check/result/DQLABSQLT1HNGAHE)
+- 🌱 I’m passionate in [UI/UX](https://drive.google.com/file/d/1GV5KSNAp10KW-jTBSAHvWLP31uMrkvV8/view), [Frontend](https://www.dicoding.com/certificates/6RPNW7WDRP2M) and Backend
 
 If you are interested in getting to know me, please follow my [LinkedIn](https://www.linkedin.com/in/sintaalfiroyanulm/) account.
 
@@ -26,6 +32,9 @@ If you are interested in getting to know me, please follow my [LinkedIn](https:/
 - <a href="https://linkedin.com/in/sintaalfiroyanulm/">LinkedIn</a>
 - sinta.alfi2002@mail.ugm.ac.id
 - <a href="https://www.instagram.com/sintaalfir/">Instagram</a>
+
+[linkedin-shield]: https://img.shields.io/badge/-sintaalfirm-blue?style=flat-square&logo=Linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/sintaalfiroyanulm
 <!--
 **sintaalfirm/sintaalfirm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
