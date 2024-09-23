@@ -6,7 +6,7 @@
 
 - 🎓 I am a **Geodetic Engineering** student at UGM.
 - 🌱 I’m currently learning [Python](https://www.dicoding.com/certificates/EYX420GN6ZDL),  [Javascript](https://www.dicoding.com/certificates/72ZD8RROVZYW), [Git](https://www.dicoding.com/certificates/QLZ9QLK72Z5D),  [Machine Learning](https://www.dicoding.com/certificates/QLZ9K5WN9Z5D), Linux, and [SQL](https://academy.dqlab.id/Certificate_check/result/DQLABSQLT1HNGAHE)
-- 🌱 I’m passionate in [UI/UX](https://drive.google.com/file/d/1GV5KSNAp10KW-jTBSAHvWLP31uMrkvV8/view), [Frontend](https://www.dicoding.com/certificates/6RPNW7WDRP2M) and Backend
+- 🌱 I’m passionate in [UI/UX](https://drive.google.com/file/d/1GV5KSNAp10KW-jTBSAHvWLP31uMrkvV8/view), and [Frontend](https://www.dicoding.com/certificates/6RPNW7WDRP2M) 
 
 If you are interested in getting to know me, please follow my [LinkedIn](https://www.linkedin.com/in/sintaalfiroyanulm/) account.
 
