@@ -18,6 +18,8 @@ If you are interested in getting to know me, please follow my [LinkedIn](https:/
   <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="21px"/> </a>
   <a href="https://qgis.org/en/site/" target="_blank"> <img align="left" src="https://spatialthoughts.com/wp-content/uploads/2019/11/qgis-logo.png" alt="qgis" width="42px"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img align="left" src="https://devopstales.github.io/img/postgres.png" alt="postgresql" width="21px"/> </a>
+  <a href="https://geoserver.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/wiki/geoserver/geoserver/GeoServer_MARK.png" alt="geoserver" width="21px"/> </a>
+  <a href="https://ubuntu.com/" target="_blank"> <img align="left" src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" alt="ubuntu" width="21px"/> </a>
   <br>
   <br>
 
